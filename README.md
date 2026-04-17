@@ -13,6 +13,7 @@ This project enhances underwater images affected by poor visibility, color disto
 - Python
 - OpenCV
 - Streamlit
+- PIL
 
 ## 🎯 Application
 Useful in maritime security, underwater exploration, and surveillance systems.
